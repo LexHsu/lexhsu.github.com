@@ -1,3 +1,1 @@
-lexhsu.github.com
-=================
-Tech
+One is never too old to learn.
