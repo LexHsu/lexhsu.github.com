@@ -5,10 +5,7 @@ description: 没有合适的插件，就只好自己动手了，同时也用Back
 category: blog
 ---
 
-##开始之前
 
-ContentProvider（内容提供者）
-=========
 一、使用ContentProvider详解
 ---
 ContentProvider在android中的作用是对外共享数据，也就是说你可以通过ContentProvider把应用中的数据共享给其他应用访问，其他应用可以通过ContentProvider对你应用中的数据进行添删改查。关于数据共享，以前我们学习过文件操作模式，知道通过指定文件的操作模式为Context.MODE_WORLD_READABLE或Context.MODE_WORLD_WRITEABLE同样也可以对外共享数据。那么，这里为何要使用ContentProvider对外共享数据呢？因为采用文件操作模式对外共享数据，数据的访问方式会因数据存储的方式而不同，导致数据的访问方式无法统一，如：采用xml文件对外共享数据，需要进行xml解析才能读取数据；采用sharedpreferences共享数据，需要使用sharedpreferences API读取数据。
