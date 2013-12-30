@@ -5,7 +5,7 @@ pygments: true
 paginate: 8
 permalink: /:title
 
-title:略禅 
+title:LueChan 
 url: http://luechan.com
 feed: /atom.xml
-author_info: <a href="http://luechan.com/">LueChan</a>
+author_info: <a href="http://luechan.com/">略禅</a>
