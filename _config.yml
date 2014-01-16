@@ -26,10 +26,10 @@ future:       false
 #
 
 # In atom feed in `id` tag
-domain:       sparanoid.com
+domain:       luechan.com
 
 # In atom feed and sitemap
-url:          http://sparanoid.com
+url:          http://luechan.com
 
 # CSS path used in templates
 assets:       assets
@@ -39,25 +39,25 @@ file:         http://d349cztnlupsuf.cloudfront.net
 # file:         http://sparanoid.s3-website-us-east-1.amazonaws.com
 
 # Download files URL used in posts, ie. href="{{ site.download }}/package.zip"
-download:     http://dl.sparanoid.com
+download:     http://dl.luechan.com
 
 # Since I use `/feed/index.xml` as feed permalink, `{{ page.url }}` won't pass feed validation with "Self reference doesn't match document location" error
 feed:         feed
 
 # Site name
-name:         Sparanoid
+name:         LueChan
 
 # Owner name
-user:         Tunghsiao Liu
+user:         Lex Hsu
 
 # Site email
-email:        t@sparanoid.com
+email:        t@luechan.com
 
 # Site slogan, used in subtitle in Atom feed
 slogan:       I make things that don't suck.
 
 # Twitter handle, without at symbol
-twitter:      sparanoid
+twitter:      luechan
 
 # Donate link, it's too long so I moved it here
 donate:       https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LTXZ835Y6T95S
