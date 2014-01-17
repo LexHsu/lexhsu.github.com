@@ -1,23 +1,23 @@
 {
   "name": "sparanoid.com",
   "version": "23.0.1",
-  "description": "Jekyll runing on sparanoid.com",
+  "description": "Jekyll runing on lexhsu.com",
   "author": "Tunghsiao Liu",
-  "homepage": "http://sparanoid.com/",
+  "homepage": "http://luechan.com/",
   "main": "Gruntfile.coffee",
   "scripts": {
     "test": "grunt test"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/sparanoid/sparanoid.com.git"
+    "url": "git://github.com/LexHsu/lexhsu.github.com.git"
   },
   "bugs": {
-    "url": "http://github.com/sparanoid/sparanoid.com/issues"
+    "url": "http://github.com/LexHsu/lexhsu.github.com/issues"
   },
   "licenses": {
     "type": "MIT",
-    "url": "http://github.com/sparanoid/sparanoid.com/blob/master/LICENSE"
+    "url": "http://github.com/LexHsu/lexhsu.github.com/blob/master/LICENSE"
   },
   "keywords": [
     "jekyll",
