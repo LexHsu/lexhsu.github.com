@@ -1,5 +1,5 @@
 # Sparanoid
-[![Build Status](https://travis-ci.org/sparanoid/sparanoid.com.png)](https://travis-ci.org/sparanoid/sparanoid.com)
+[![Build Status](https://travis-ci.org/LexHsu/lexhsu.github.com.png)](https://travis-ci.org/LexHsu/lexhsu.github.com)
 [![devDependency Status](https://david-dm.org/sparanoid/sparanoid.com/dev-status.png)](https://david-dm.org/sparanoid/sparanoid.com#info=devDependencies)
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sparanoid/sparanoid.com/trend.png)](https://bitdeli.com/free)
 
