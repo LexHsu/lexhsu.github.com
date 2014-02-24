@@ -1,0 +1,6 @@
+---
+layout: nil
+---
+User-agent: *
+Disallow: /lab/version/
+Sitemap: {{ site.url }}{{ site.base }}/sitemap.xml
