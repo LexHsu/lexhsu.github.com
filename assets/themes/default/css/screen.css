@@ -515,7 +515,7 @@ nav#main_nav {
             footer section.colophon {
                 padding-left: 80px;
                 width: 140px;
-                background-image: url({{ site.author.avatar }});
+                background-image: url(../images/signature.png);
                 background-repeat: no-repeat;
                 background-position: 0px 45px;
                 }
