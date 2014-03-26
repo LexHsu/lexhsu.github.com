@@ -237,7 +237,7 @@ nav#main_nav {
         
 #content {
     clear: both;
-    padding-left: 80px;
+    padding-left: 40px;
     padding-top: 113px;
     padding-bottom: 80px;    
     position: relative;    
@@ -285,7 +285,7 @@ nav#main_nav {
     	border-bottom: 0px;
     	}
     #content article {
-        width: 560px;
+        width: 640px;
         overflow: display;
         }
     #content article p,
